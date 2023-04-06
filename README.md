@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://AliyaRazyapova.github.io/" target="_blank">Aliya</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">FullStack-Python Developer :laptop: </h3>
+<h3 align="center">FullStack-Python Developer 💻</h3>
 
 ## 🌱 About Me
 
@@ -9,6 +9,6 @@
 
 - I'm studying in second course **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
 
-#### BIO :laptop:
+#### BIO 💻
 
-- I'm currently studying **Python (Django)** in university :snake: and **Vue.js** :avocado:
+- I'm currently studying **Python (Django)** in university :snake: and **Vue.js** 🎾:
