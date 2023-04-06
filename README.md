@@ -7,5 +7,5 @@
 
 #### Education 	:woman_student:
 
-- I'm studying in second course of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
+- I'm studying in second course **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
 
