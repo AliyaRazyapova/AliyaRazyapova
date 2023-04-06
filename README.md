@@ -11,4 +11,8 @@
 
 #### BIO 💻
 
-- I'm currently studying **Python (Django)** in university :snake: and **Vue.js** 🎾:
+- I'm currently studying **Python (Django)** in university :snake: and **Vue.js** 🎾
+
+#### Connect with me 💌:
+<a href='https://t.me/a_rz_aliya' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:2458750@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
