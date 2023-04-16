@@ -32,4 +32,4 @@
 <hr></hr>
 
 ## 🗒️ My projects 
-<a href="https://aliyarazyapova.github.io/" target="_blank"> ![Projects] (https://img.shields.io/static/v1.svg?label=Projects&message=CLICKME&color=blue)<a>
+<a href='https://AliyaRazyapova.github.io/' target="_blank">![Projects](https://img.shields.io/static/v1.svg?label=Projects&message=CLICKME&color=blue)</a>
