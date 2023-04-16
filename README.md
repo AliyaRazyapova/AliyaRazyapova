@@ -14,7 +14,9 @@
 - I'm currently studying **Python (Django)** in university :snake: and **Vue.js** 🎾
 
 #### 💌 Connect with me
+
 <a href='https://t.me/a_rz_aliya' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
 <a href="mailto:2458750@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <hr></hr>
@@ -31,11 +33,16 @@
 
 <hr></hr>
 
-## 💻Programming Languages
+## 💻Programming Languages & Tools
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+    </a>
 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
+    </a>
 
 <hr></hr>
 
