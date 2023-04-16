@@ -104,3 +104,12 @@
 
 ## 🗒️ My projects 
 <a href='https://AliyaRazyapova.github.io/' target="_blank">![Projects](https://img.shields.io/static/v1.svg?label=Projects&message=CLICKME&color=blue)</a>
+
+<hr></hr>
+
+## 📊 Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aliyarazyapova&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000)](https://github.com/AliyaRazyapova)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyarazyapova&hide_title=true&hide_border=flase&show_icons=true&bg_color=00000000)](https://github.com/AliyaRazyapova)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyarazyapova&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000)](https://github.com/AliyaRazyapova)
