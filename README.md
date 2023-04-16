@@ -31,5 +31,11 @@
 
 <hr></hr>
 
+## 💻Programming Languages
+
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+
+<hr></hr>
+
 ## 🗒️ My projects 
 <a href='https://AliyaRazyapova.github.io/' target="_blank">![Projects](https://img.shields.io/static/v1.svg?label=Projects&message=CLICKME&color=blue)</a>
