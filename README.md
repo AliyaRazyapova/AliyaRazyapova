@@ -15,9 +15,10 @@
 
 #### 💌 Connect with me
 
-<a href='https://t.me/a_rz_aliya' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-<a href="mailto:2458750@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<p align="left"> 
+    <a href='https://t.me/a_rz_aliya' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+    <a href="mailto:2458750@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+</p>
 
 <hr></hr>
 
