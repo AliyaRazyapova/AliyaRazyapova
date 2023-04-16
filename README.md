@@ -33,7 +33,7 @@
 
 ## 💻Programming Languages
 
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python"/>
 
 <hr></hr>
 
