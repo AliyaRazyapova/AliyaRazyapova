@@ -11,7 +11,7 @@
 
 #### 💻 BIO
 
-- I'm currently studying **Python (Django)** in university :snake: and **Vue.js** 🎾
+- I'm currently studying **Python (Django)** 🐍 and **Vue.js** 🎾 in university
 
 #### 💌 Connect with me
 
